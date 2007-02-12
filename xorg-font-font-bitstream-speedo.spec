@@ -1,5 +1,5 @@
 Summary:	bitstream-speedo font
-Summary(pl):	Font bitstream-speedo
+Summary(pl.UTF-8):   Font bitstream-speedo
 Name:		xorg-font-font-bitstream-speedo
 Version:	1.0.0
 Release:	0.1
@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 bitstream-speedo font.
 
-%description -l pl
+%description -l pl.UTF-8
 Font bitstream-speedo.
 
 %prep
