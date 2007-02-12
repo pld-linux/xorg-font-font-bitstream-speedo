@@ -1,5 +1,5 @@
 Summary:	bitstream-speedo font
-Summary(pl.UTF-8):   Font bitstream-speedo
+Summary(pl.UTF-8):	Font bitstream-speedo
 Name:		xorg-font-font-bitstream-speedo
 Version:	1.0.0
 Release:	0.1
