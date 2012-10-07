@@ -2,7 +2,7 @@ Summary:	Bitstream Speedo fonts
 Summary(pl.UTF-8):	Fonty Speedo Bitstream
 Name:		xorg-font-font-bitstream-speedo
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Fonts
 Source0:	http://xorg.freedesktop.org/releases/individual/font/font-bitstream-speedo-%{version}.tar.bz2
